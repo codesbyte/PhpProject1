@@ -20,5 +20,7 @@ and open the template in the editor.
         
         
         <p>branch_new1</p>
+        
+        <p>fetch_new1</p>
     </body>
 </html>

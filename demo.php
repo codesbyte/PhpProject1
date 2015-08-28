@@ -17,5 +17,7 @@ and open the template in the editor.
         <p>ddd ddd ddd</p>
         
         <p>branch_new1</p>
+        
+        <p>fetch_new1</p>
     </body>
 </html>
